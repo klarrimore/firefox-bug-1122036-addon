@@ -1,0 +1,9 @@
+{
+  "name": "firefox-bug-addon",
+  "title": "firefox-bug-addon",
+  "id": "jid1-6O4xuBBA4E5JLw",
+  "description": "a basic addon to show bug #1122036",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
